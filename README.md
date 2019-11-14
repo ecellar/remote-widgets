@@ -1,1 +1,1 @@
-# remote-widgets
+# designer-widgets
